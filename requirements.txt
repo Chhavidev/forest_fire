@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+tensorflow
+torch
+ultralytics
+requests
+folium
+flask
+flask-cors
+matplotlib
+geopandas
+opencv-python
